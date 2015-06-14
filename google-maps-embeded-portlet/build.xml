@@ -3,4 +3,5 @@
 
 <project name="google-maps-embeded-portlet" basedir="." default="deploy">
 	<import file="../build-common-portlet.xml" />
+	<!--Default Target-->
 </project>
